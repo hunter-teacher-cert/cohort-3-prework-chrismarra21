@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class max
+public class sieve
 {
    public static void main(String[] args)
   {
