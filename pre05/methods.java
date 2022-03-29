@@ -10,8 +10,7 @@ public class methods
      System.out.println(ack(3,3));
    }
 
- // 6.2 put in Method.java
-
+ 
   public static boolean isdivisible(int m,int n )
     {
         return (m % n==0);
