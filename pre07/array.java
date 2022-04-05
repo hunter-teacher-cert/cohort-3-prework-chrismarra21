@@ -4,7 +4,7 @@ public class array
 {
   
       
-  }
+  
    public static double[] powArray(double[] a,int n) 
     {    
         double[] b = new double[a.length];
@@ -14,6 +14,7 @@ public class array
         }
         return b;  
     }
+    
    public static int[] histogram(int[] scores) 
     {    
         int[] counts = new int[100];
@@ -21,6 +22,7 @@ public class array
         {
             counts[score]++;
         }
+        
         return counts[];
     }
 
